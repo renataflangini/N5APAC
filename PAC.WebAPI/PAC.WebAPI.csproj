@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PAC.Domain\PAC.Domain.csproj" />
     <ProjectReference Include="..\PAC.IBusinessLogic\PAC.IBusinessLogic.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
